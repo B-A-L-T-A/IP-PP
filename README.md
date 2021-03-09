@@ -1,3 +1,4 @@
 # IP-PP
 Programa que puede capturar dirección IP privada y pública propia, además del de un servidor Web<br><br>
-![Captura de pantalla (463)](https://user-images.githubusercontent.com/79738875/109427147-3f684300-79ae-11eb-9537-81b156692e05.png)
+![Captura de pantalla (508)](https://user-images.githubusercontent.com/79738875/110410647-755c9580-8046-11eb-9331-bc0dcf90a178.png)
+
