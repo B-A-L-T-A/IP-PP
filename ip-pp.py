@@ -4,6 +4,9 @@ import socket
 import urllib.request
 import time
 from colorama import init, Fore
+import os
+
+os.system("clear")
 
 while True:
     print(Fore.YELLOW + """
