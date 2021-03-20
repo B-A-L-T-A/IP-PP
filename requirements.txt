@@ -1,0 +1,5 @@
+argparse
+requests
+smtplib
+ctypes
+tqdm
