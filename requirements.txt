@@ -1,5 +1,4 @@
 argparse
 requests
-smtplib
-ctypes
+colorama
 tqdm
