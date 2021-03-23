@@ -3,7 +3,7 @@
 import socket
 import urllib.request
 import time
-import tqdm
+from tqdm import tqdm
 from colorama import init, Fore
 import os
 
